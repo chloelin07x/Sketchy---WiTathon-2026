@@ -1,6 +1,4 @@
-# Sketchy---WiTathon-2026
-For WiTathon 2026, my team and I created a web application drawing game based on the theme 'Flipping the Script'. 
+# Sketchy
 
-Our twist was to change the way the controls worked, such that drawing a downwards stroke actually created an upwards one, and selecting the colour blue gave orange instead! We quite literally 'flipped'. The aim of the game is to draw something resembling the randomised prompt in the time limit, and then guess another player's prompt successfully! 
-
-We were unable to make it multiplayer in the time, but are very proud of our rather unconventional but fun and rage-inducing game!
+This was a team project completed for the University of Bath 24-hr WITathon for 2026, the theme being "Flipping the Script".
+Our project was inspired from popular online drawing games such as 'Gartic Phone' and 'Scribbl.io', with the twist of inverting controls, swapping colours, purposefully glitchy buttons and other fun features to challenge the player!
